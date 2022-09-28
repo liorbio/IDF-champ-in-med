@@ -1,0 +1,30 @@
+.houseWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-right: 4vw;
+}
+.houseTitle {
+    height: 6vh;
+    width: 96vw;
+    margin-top: 2vh;
+    text-align: right;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: space-between;
+}
+.unitsAndInput {
+    background-color: #f4f4f4;
+    margin-right: -4vw;
+    width: 100vw;
+}
+.unitsAndInput input {
+    margin-top: 1.5vh;
+    height: 2rem;
+    padding: 0.3rem;
+    font-size: 1.1rem;
+    width: 90vw;
+    border-radius: 10px;
+    border: 0;
+    outline: none;
+}

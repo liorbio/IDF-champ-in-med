@@ -1,0 +1,1011 @@
+[
+    {
+        "device": "ערכת העשרה בחמצן",
+        "questions": [
+            {
+                "device":"ערכת העשרה בחמצן",
+                "questionNumber": 1,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 5,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device": "ערכת העשרה בחמצן",
+                "questionNumber": 2,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/OxygenRegulator.jpg", "alt": "Oxygen Regulator" },
+                "stickers": [
+                    { "text": "הברגה לחיבור בלון החמצן", "numberInImage": 1 },
+                    { "text": "שעון לחץ", "numberInImage": 2 },
+                    { "text": "בורר ספיקה", "numberInImage": 3 },
+                    { "text": "חיבור מהיר המיועד לחיבור צינור חמצן בלחץ גבוה למנשם", "numberInImage": 4 },
+                    { "text": "יציאת העשרה בחמצן (מתחברת למסכה)", "numberInImage": 5 }
+                    
+                ],
+                "points": 10,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device": "ערכת העשרה בחמצן",
+                "questionNumber": 3,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/AmbuBag.jpg", "alt": "Ambu Bag" },
+                "stickers": [
+                    { "text": "חיבור למסכת העשרה", "numberInImage": 1 },
+                    { "text": "מפוח הנשמה", "numberInImage": 2 },
+                    { "text": "חיבור מסנן אב\"כ", "numberInImage": 3 },
+                    { "text": "חיבור לאמבו", "numberInImage": 4 },
+                    { "text": "חיבור לטובוס", "numberInImage": 5 }
+                ],
+                "points": 10,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device": "ערכת העשרה בחמצן",
+                "questionNumber": 4,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 15,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device": "ערכת העשרה בחמצן",
+                "questionNumber": 5,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 20,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device":"ערכת העשרה בחמצן",
+                "questionNumber": 6,
+                "kind": "operation-assessment",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "tasks": [
+                    "וידוא שברז הבלון סגור.",
+                    "חיבור תקין של הווסת (תוך החזקת הבלון בצורה בטיחותית).",
+                    "וידוא שבורר הספיקה על 0 ולא פתוח.",
+                    "פתיחת הברז (מבלי לכוון לעבר אנשים).",
+                    "בדיקה ששעון הלחץ מראה את הלחץ בגליל.",
+                    "חיבור שקית העשרה אל הווסת.",
+                    "חיבור אמבו אל שקית ההעשרה.",
+                    "פתיחת בורר הספיקה.",
+                    "מילוי שקית העשרה בחמצן.",
+                    "פריקה: סגירת בורר הספיקה של הווסת.",
+                    "פריקה: ניתוק שקית ההעשרה.",
+                    "פריקה: סגירת ברז הגליל.",
+                    "פריקה: פרית לחץ על ידי לחיצה במקום הייעודי בווסת.",
+                    "פריקה: וידוא ששעון הווסת מראה 0.",
+                    "פריקה: ניתוק הווסת מהגליל.",
+                    "השלבים בוצעו לפי הסדר."
+                ],
+                "points": 40,
+                "author":"Anat Lyubin"
+            }
+        ]
+    },
+    {
+        "device": "מוניטור אטנה",
+        "questions": [
+            {
+                "device": "מוניטור אטנה",
+                "questionNumber": 1,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/AthenaArm.jpg", "alt": "Athena Monitor" },
+                "stickers": [
+                    { "text": "שרוול לחץ דם", "numberInImage": 1 },
+                    { "text": "Wi-Fi", "numberInImage": 2 },
+                    { "text": "מדידת לחץ דם", "numberInImage": 3 },
+                    { "text": "השתקת התראות", "numberInImage": 4 },
+                    { "text": "הפעלה/כיבוי", "numberInImage": 5 },
+                    { "text": "חיבור אביזרים", "numberInImage": 6 }
+                ],
+                "points": 18,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device": "מוניטור אטנה",
+                "questionNumber": 2,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/AthenaAccessories.jpg", "alt": "Athena Accessories" },
+                "stickers": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "numberInImage": 1 },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "numberInImage": 2 },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "numberInImage": 3 }
+                ],
+                "points": 9,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device":"מוניטור אטנה",
+                "questionNumber": 3,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 15,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מוניטור אטנה",
+                "questionNumber": 4,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 12,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מוניטור אטנה",
+                "questionNumber": 5,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 16,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מוניטור אטנה",
+                "questionNumber": 6,
+                "kind": "operation-assessment",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "tasks": [
+                    "חיבור שרוול לחץ הדם (מדד מנוטר: לחץ דם ודופק).",
+                    "חיבור מד הסטורציה (מדד מנוטר: סטורציה).",
+                    "חיבור סוללת הקפנומטר למכשיר.",
+                    "חיבור הקפנומטר לסוללה (מדד מנוטר: רמת CO2).",
+                    "הכנסת המתאם החד פעמי לקפנומטר.",
+                    "חיבור הא.ק.ג (מדד מנוטר: ערוץ א.ק.ג יחיד)."
+                ],
+                "points": 30,
+                "author": "Anat Lyubin"
+            }
+        ]
+    },
+    {
+        "device": "דפיברילטור חצי אוטומטי AED",
+        "questions": [
+            {
+                "device": "דפיברילטור חצי אוטומטי AED",
+                "questionNumber": 1,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/AED.jpg", "alt": "Defibrillator" },
+                "stickers": [
+                    { "text": "אלקטרודת דפיברילציה", "numberInImage": 1 },
+                    { "text": "נורית חיווי", "numberInImage": 2 },
+                    { "text": "כפתור הדלקה", "numberInImage": 3 },
+                    { "text": "לחצן מידע", "numberInImage": 4 },
+                    { "text": "נורית אזהרה", "numberInImage": 5 },
+                    { "text": "מתן שוק חשמלי", "numberInImage": 6 }
+                ],
+                "points": 30,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device":"דפיברילטור חצי אוטומטי AED",
+                "questionNumber": 2,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"דפיברילטור חצי אוטומטי AED",
+                "questionNumber": 3,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"דפיברילטור חצי אוטומטי AED",
+                "questionNumber": 4,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 20,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"דפיברילטור חצי אוטומטי AED",
+                "questionNumber": 5,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"דפיברילטור חצי אוטומטי AED",
+                "questionNumber": 6,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 20,
+                "author": "Anat Lyubin"
+            }
+        ]
+    },
+    {
+        "device": "קפנומטר משולב Nonin",
+        "questions": [
+            {
+                "device":"קפנומטר משולב Nonin",
+                "questionNumber": 1,
+                "kind": "one-correct-with-image",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/NoninOne.jpg", "alt": "Capnometer" },
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"קפנומטר משולב Nonin",
+                "questionNumber": 2,
+                "kind": "one-correct-with-image",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/NoninYellowTop.jpg", "alt": "Capnometer" },
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 13,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"קפנומטר משולב Nonin",
+                "questionNumber": 3,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/NoninButtons.jpg", "alt": "Capnometer Buttons" },
+                "stickers": [
+                    { "text": "הדלקה/כיבוי.", "numberInImage": 1 },
+                    { "text": "דיפדוף.", "numberInImage": 2 },
+                    { "text": "גבולות אזעקה.", "numberInImage": 3 },
+                    { "text": "ביטול אזעקות קוליות.", "numberInImage": 4 }
+                ],
+                "points": 12,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"קפנומטר משולב Nonin",
+                "questionNumber": 4,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 15,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"קפנומטר משולב Nonin",
+                "questionNumber": 5,
+                "kind": "one-correct-with-image",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/NoninYellowMid.jpg", "alt": "Capnometer" },
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"קפנומטר משולב Nonin",
+                "questionNumber": 6,
+                "kind": "one-correct-with-image",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/NoninRedMid.jpg", "alt": "Capnometer" },
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"קפנומטר משולב Nonin",
+                "questionNumber": 7,
+                "kind": "operation-assessment",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "tasks": [
+                    "הכנסת הסוללות בכיווניות הנכונה.",
+                    "חיבור סנסור הסטורציה.",
+                    "חיבור סנסור ה-CO2 בכיווניות הנכונה.",
+                    "ציון התפקידים של הסנסורים שחוברו.",
+                    "הדלקה."
+                ],
+                "points": 30,
+                "author": "Anat Lyubin"
+            }
+        ]
+    },
+    {
+        "device": "מוניטור טמפוס",
+        "questions" : [
+            {
+                "device":"מוניטור טמפוס",
+                "questionNumber": 1,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 11,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device": "מוניטור טמפוס",
+                "questionNumber": 2,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/TempusFrontAndSide.jpg", "alt": "Tempus Monitor" },
+                "stickers": [
+                    { "text": "חיבור לחשמל", "numberInImage": 1 },
+                    { "text": "העברה למצב טקטי/רגיל", "numberInImage": 2 },
+                    { "text": "תפריט ראשי", "numberInImage": 3 },
+                    { "text": "מצב הסוללה", "numberInImage": 4 },
+                    { "text": "השתקת אזעקות קוליות ל-2 דקות", "numberInImage": 5 },
+                    { "text": "הדלקה/כיבוי", "numberInImage": 6 }
+                ],
+                "points": 12,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device": "מוניטור טמפוס",
+                "questionNumber": 3,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/TempusSide.jpg", "alt": "Tempus Monitor" },
+                "stickers": [
+                    { "text": "חיבור א.ק.ג", "numberInImage": 1 },
+                    { "text": "חיבור לחץ דם לא פולשני", "numberInImage": 2 },
+                    { "text": "חיבור SpO2%", "numberInImage": 3 },
+                    { "text": "חיבור לחץ דם פולשני", "numberInImage": 4 },
+                    { "text": "חיבור קפנומטר", "numberInImage": 5 },
+                    { "text": "חיבור מד טמפרטורה", "numberInImage": 6 }
+                ],
+                "points": 12,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device":"מוניטור טמפוס",
+                "questionNumber": 4,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 15,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מוניטור טמפוס",
+                "questionNumber": 5,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 20,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מוניטור טמפוס",
+                "questionNumber": 6,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 15,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מוניטור טמפוס",
+                "questionNumber": 7,
+                "kind": "operation-assessment",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "tasks": [
+                    "חיבור כבל הא.ק.ג למכשיר",
+                    "חיבור שרוול לחץ הדם הלא פולשני למכשיר",
+                    "חיבור כבל ה-SpO2%",
+                    "חיבור כבל מד לחץ הדם הפולשני וחיבור המתכלה החד פעמי לכבל",
+                    "חיבור כבל הקפנומטר וחיבור המתכלה אל החיישן",
+                    "חיבור מד הטמפרטורה (מספיק לחבר אחד)",
+                    "הדלקת המכשיר",
+                    "לחיצה על לחצן מצב סוללה",
+                    "שינוי הגדרות - לחיצה על האזור במסך בו מופיע המדד, דפדוף בתפריט עד לשורת שינוי ההתראות, שינוי ההתראות"
+                ],
+                "points": 30,
+                "author": "Anat Lyubin"
+            }
+        ]
+    },
+    {
+        "device": "מנשם EMV+",
+        "questions" : [
+            {
+                "device":"מנשם EMV+",
+                "questionNumber": 1,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 6,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מנשם EMV+",
+                "questionNumber": 2,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 6,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מנשם EMV+",
+                "questionNumber": 3,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מנשם EMV+",
+                "questionNumber": 4,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 12,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device": "מנשם EMV+",
+                "questionNumber": 5,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/EMVTop.jpg", "alt": "EMV+ ventilator" },
+                "stickers": [
+                    { "text": "חיבור סטורציה", "numberInImage": 1 },
+                    { "text": "צינור חולה", "numberInImage": 2 },
+                    { "text": "חיבור צינור חמצן", "numberInImage": 3 }
+                ],
+                "points": 6,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device": "מנשם EMV+",
+                "questionNumber": 6,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/EMVBottom.jpg", "alt": "EMV+ ventilator" },
+                "stickers": [
+                    { "text": "הדלקה וכיבוי", "numberInImage": 1 },
+                    { "text": "אישור שמירה של שינוי פרמטר", "numberInImage": 2 },
+                    { "text": "חוגה לקביעת ערכים", "numberInImage": 3 },
+                    { "text": "ביטול פעולה או השתקת אזעקות", "numberInImage": 4 },
+                    { "text": "הנשמה ידנית", "numberInImage": 5 }
+                ],
+                "points": 10,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device":"מנשם EMV+",
+                "questionNumber": 7,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מנשם EMV+",
+                "questionNumber": 8,
+                "kind": "operation-assessment",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "tasks": [
+                    "חיבור מעגל חולה כולל כל הצינורות ואל הריאה מצד שני",
+                    "חיבור צינור חמצן",
+                    "חיבור מד סטורציה",
+                    "חיבור פילטר HME",
+                    "הדלקת המכשיר"
+                ],
+                "points": 40,
+                "author": "Anat Lyubin"
+            }
+        ]
+    },
+    {
+        "device": "מוניטור דפיברילטור LP-15",
+        "questions" : [
+            {
+                "device":"מוניטור דפיברילטור LP-15",
+                "questionNumber": 1,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 11,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מוניטור דפיברילטור LP-15",
+                "questionNumber": 2,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 16,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device": "מוניטור דפיברילטור LP-15",
+                "questionNumber": 3,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/LP15.jpg", "alt": "LP-15 defibrillator" },
+                "stickers": [
+                    { "text": "מעלה או מוריד את רמת האנרגיה במצב ידני", "numberInImage": 1 },
+                    { "text": "טעינת המכשיר במצב ידני", "numberInImage": 2 },
+                    { "text": "משחרר את האנרגיה של הדפיברילטור למטופל", "numberInImage": 3 },
+                    { "text": "מתחיל/מסיים את פעולת המטרונום", "numberInImage": 4 },
+                    { "text": "מתחיל את הניתוח במצב AED", "numberInImage": 5 },
+                    { "text": "מפעיל מצב סנכרון", "numberInImage": 6 }
+                ],
+                "points": 24,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device":"מוניטור דפיברילטור LP-15",
+                "questionNumber": 4,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 9,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מוניטור דפיברילטור LP-15",
+                "questionNumber": 5,
+                "kind": "operation-assessment",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "tasks": [
+                    "חיבור כבל SpO2 עד הישמע קליק ליציאת סטורציה",
+                    "חיבור צינורית לחץ דם",
+                    "חיבור מחבר האקג והידוקו",
+                    "לחיצה על ON והמתנה לביצוע בדיקה עצמית",
+                    "הצבעה על סטטוס שתי הסוללות על צג המכשיר [או] לחיצה על כפתור בחלקו האחורי של המכשיר והצגת סטטוס הסוללה",
+                    "לחיצה על כפתור ה-12-lead והזנת פרטים (הדפסה תתבצע אוטומטית)",
+                    "הרמת הידית בפתח הכנסת הנייר",
+                    "פתיחת פתח הזזת הנייר",
+                    "הוצאת הגליל הריק (במידה וקיים)",
+                    "הכנסת גליל חדש (נייר משובץ פונה החוצה), כך שקצה הנייר בולט מהפתח",
+                    "סגירת הפתח עד הישמע הקליק"
+                ],
+                "points": 40,
+                "author": "Ido Cohen"
+            }
+        ]
+    },
+    {
+        "device": "מנשם טקטי רפאל",
+        "questions" : [
+            {
+                "device":"מנשם טקטי רפאל",
+                "questionNumber": 1,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 6,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מנשם טקטי רפאל",
+                "questionNumber": 2,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 6,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מנשם טקטי רפאל",
+                "questionNumber": 3,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מנשם טקטי רפאל",
+                "questionNumber": 4,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 12,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device": "מנשם טקטי רפאל",
+                "questionNumber": 5,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/TacticalVentilatorFront.jpg", "alt": "Rafael ventilator" },
+                "stickers": [
+                    { "text": "מחבר מעגל חולה", "numberInImage": 1 },
+                    { "text": "מחבר צינורות בקרת הלחץ", "numberInImage": 2 },
+                    { "text": "מסך", "numberInImage": 3 },
+                    { "text": "כפתור ראשי לדיפדוף ובחירה", "numberInImage": 4 }
+                ],
+                "points": 8,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device": "מנשם טקטי רפאל",
+                "questionNumber": 6,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/TacticalVentilatorBack.jpg", "alt": "Rafael ventilator" },
+                "stickers": [
+                    { "text": "הפעלה/כיבוי", "numberInImage": 1 },
+                    { "text": "סוללה", "numberInImage": 2 },
+                    { "text": "שקע חשמל", "numberInImage": 3 },
+                    { "text": "פתח יניקת אוויר/חיבור מיקסר חמצן", "numberInImage": 4 }
+                ],
+                "points": 8,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device":"מנשם טקטי רפאל",
+                "questionNumber": 7,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"מנשם טקטי רפאל",
+                "questionNumber": 8,
+                "kind": "operation-assessment",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "tasks": [
+                    "חיבור מעגל חולה והצינורות לוויסות הלחץ",
+                    "חיבור פילטר HME",
+                    "חיבור מיקסר למנשם",
+                    "חיבור צינור חמצן למיקסר",
+                    "וידוא קיום סוללה",
+                    "זיהוי הבדלים בין 2 סוגי הסוללות",
+                    "הפעלת המכשיר"
+                ],
+                "points": 40,
+                "author": "Anat Lyubin"
+            }
+        ]
+    },
+    {
+        "device": "א.ק.ג",
+        "questions": [
+            {
+                "device":"א.ק.ג",
+                "questionNumber": 1,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"א.ק.ג",
+                "questionNumber": 2,
+                "kind": "many-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 20,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"א.ק.ג",
+                "questionNumber": 3,
+                "kind": "order",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "items": [
+                    { "text": "כיבוי מכשיר הא.ק.ג.", "order": 1 },
+                    { "text": "ניתוק מכשיר הא.ק.ג מהחשמל.", "order": 2 },
+                    { "text": "ניתוק פומיות וצבתות מהפינים.", "order": 3 },
+                    { "text": "הכנת פד גאזה טבול בתמיסת 70% אלכוהול או הכנת ספונג'טות.", "order": 4 },
+                    { "text": "ניקוי הפינים באמצעות הפד או הספונג'טה.", "order": 5 },
+                    { "text": "הסרת הג'ל הנותר על הפומיות והצבתות באמצעות הפד או הספונג'טה.", "order": 6 },
+                    { "text": "חיבור האביזרים חזרה לא.ק.ג.", "order": 7 },
+                    { "text": "המתנה שהאלכוהול יתנדף.", "order": 8 }
+                ],
+                "points": 16,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device":"א.ק.ג",
+                "questionNumber": 4,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 14,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"א.ק.ג",
+                "questionNumber": 5,
+                "kind": "operation-assessment",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "tasks": [
+                    "חיבור המכשיר לחשמל.",
+                    "חיבור תקין של כבל הא.ק.ג.",
+                    "חיבור של הפומיות/חגורה וחיזוק החיבורים.",
+                    "חיבור של הצבתות וחיזוקן.",
+                    "הכנסת הנייר בכיווניות נכונה לא.ק.ג.",
+                    "הדלקת המכשיר.",
+                    "סימון נכון של מיקום האלקטרודות על הגוף."
+                ],
+                "points": 40,
+                "author": "Anat Lyubin"
+            }
+        ]
+    },
+    {
+        "device": "אינהלטור",
+        "questions": [
+            {
+                "device": "אינהלטור",
+                "questionNumber": 1,
+                "kind": "drag",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "image": { "path": "/device-images/Nebulizer.jpg", "alt": "Inhalator" },
+                "stickers": [
+                    { "text": "מערפל", "numberInImage": 1 },
+                    { "text": "חיבור מסכה", "numberInImage": 2 },
+                    { "text": "חיבור המסנן", "numberInImage": 3 },
+                    { "text": "כפתור הפעלה", "numberInImage": 4 },
+                    { "text": "ספוג המסנן", "numberInImage": 5 }
+                ],
+                "points": 50,
+                "author":"Anat Lyubin"
+            },
+            {
+                "device":"אינהלטור",
+                "questionNumber": 2,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"אינהלטור",
+                "questionNumber": 3,
+                "kind": "one-correct",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "choices": [
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": false },
+                    { "text": "לשנות את לחץ החמצן הקיים בבלון.", "correct": true }
+                ],
+                "points": 10,
+                "author": "Anat Lyubin"
+            },
+            {
+                "device":"אינהלטור",
+                "questionNumber": 4,
+                "kind": "operation-assessment",
+                "prompt": "מהו תפקידו של ווסת חמצן?",
+                "tasks": [
+                    "חיבור המכשיר לחשמל.",
+                    "חיבור מסכת האינהלציה.",
+                    "מילוי המערפל (לא חייבים פיזית למלא במשהו).",
+                    "הדלקת המכשיר.",
+                    "השלבים בוצעו לפי הסדר."
+                ],
+                "points": 30,
+                "author": "Anat Lyubin"
+            }
+        ]
+    }
+]

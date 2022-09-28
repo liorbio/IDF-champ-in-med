@@ -1,0 +1,24 @@
+.sticker {
+    background-color: #E9C1C4;
+    padding: 0 1rem;
+    width: 35vw;
+    height: 6.4vh;
+    line-height: 1;
+    border-radius: 10px;
+    display: flex;
+    place-content: center;
+}
+.sticker p {
+    display: flex;
+    align-items: center;
+    font-size: 0.8rem;
+}
+.sticker span {
+    position: absolute;
+    top: 0.3rem;
+    right: 0.3rem;
+    background-color: white;
+    border-radius: 5px;
+    padding: 1px;
+    font-weight: bold;
+}

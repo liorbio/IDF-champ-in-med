@@ -1,0 +1,29 @@
+.deviceHeader {
+    display: grid;
+    grid-template-columns: 1fr 70vw 1fr;
+    border-top: 1px solid #ccc;
+}
+.deviceHeader h1, .deviceHeader h2, .deviceHeader h3 {
+    margin: 0;
+}
+.deviceHeader h1 {
+    font-size: 1.8rem;
+    line-height: 1.9; 
+    font-weight: normal;
+    margin-right: 0.3rem;   
+}
+.scoreSection {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 1fr 1fr;
+    width: 100vw;
+}
+.playerColumn {
+    display: grid;
+}
+.playerColumn p {
+    margin: 0;
+    line-height: 3.3;
+}
+.lastRow {
+    padding-bottom: 0.7rem; 
+}

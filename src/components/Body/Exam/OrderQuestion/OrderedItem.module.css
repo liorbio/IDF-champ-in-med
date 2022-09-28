@@ -1,0 +1,33 @@
+.listItem {
+    display: grid;
+    width: calc(100vw - 1.5rem);
+    grid-template-columns: 10% 90%;
+    margin-bottom: 1.5rem;
+    align-items: center;
+    justify-items: center;
+    margin-right: 0.7rem;
+    background-color: #eee;
+    border-radius: 8px;
+    padding: 0.5vh 0;
+}
+.item {
+    right: 2rem;
+    padding-right: 3vw;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    justify-self: start;
+    text-align: right;
+    flex-wrap: wrap;
+}
+.orderSquare {
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid #c4c4c4;
+    border-radius: 7px;
+    background-color: white;
+}

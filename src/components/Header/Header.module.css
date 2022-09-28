@@ -1,0 +1,8 @@
+.headerWrapper {
+    height: 15vh;
+    background-color: #e4e4e4;
+    display: grid;
+    grid-template-rows: 1fr 1rem 2.5rem 1.5rem;
+    grid-template-columns: 3rem 1fr 3rem;
+    place-items: center;
+}

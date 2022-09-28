@@ -1,0 +1,42 @@
+.modalWrapper {
+    position: fixed;
+    width: 70vw;
+    height: 22vh;
+    top: 37vh;
+    left: 15vw;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    box-shadow: 0 4px 8px 2px #00000010;
+}
+
+.modalWrapper p {
+    place-self: center;
+}
+.buttonWrapper {
+    display: flex;
+    width: 100%;
+    place-content: center;
+    height: 9vh;
+}
+.rightButton {
+    display: flex;
+    width: 100%;
+    place-content: center;
+    border-radius: 0 0 10px 0;
+    background-color: #ccc;
+    color: #696969;
+}
+.leftButton {
+    display: flex;
+    width: 100%;
+    place-content: center;
+    border-radius: 0 0 0 10px;
+    background-color: #ccc;
+    color: #696969;
+}

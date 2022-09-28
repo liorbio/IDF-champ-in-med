@@ -1,0 +1,13 @@
+.cover {
+    width: 90vw;
+    height: 14vh;
+    margin-top: 2vh;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: flex;
+    place-content: center;
+    background-color: #B91118;
+    color: #fff;
+    flex-direction: column;
+}

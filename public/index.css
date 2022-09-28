@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Assistant';
+    src: local('Assistant'), url(fonts/Assistant-Bold.ttf) format("truetype");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Assistant';
+    src: local('Assistant'), url(fonts/Assistant-ExtraBold.ttf) format("truetype");
+    font-weight: bolder;
+}
+
+@font-face {
+    font-family: 'Assistant';
+    src: local('Assistant'), url(fonts/Assistant-Light.ttf) format("truetype");
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'Assistant';
+    src: local('Assistant'), url(fonts/Assistant-Regular.ttf) format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Karantina';
+    src: local('Karantina'), url(fonts/Karantina-Bold.ttf) format("truetype");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Karantina';
+    src: local('Karantina'), url(fonts/Karantina-Light.ttf) format("truetype");
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'Karantina';
+    src: local('Karantina'), url(fonts/Karantina-Regular.ttf) format("truetype");
+    font-weight: normal;
+}

@@ -1,0 +1,28 @@
+.listItem {
+    display: grid;
+    width: calc(50vw - 1.5rem);
+    grid-template-columns: 10% 90%;
+    margin-bottom: 1.5rem;
+    align-items: center;
+    margin-right: 1.5rem;
+}
+
+.choice {
+    right: 2rem;
+    padding-right: 3vw;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: right;
+    flex-wrap: wrap;
+}
+.checkmarkSquare {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid #c4c4c4;
+    border-radius: 7px;
+}

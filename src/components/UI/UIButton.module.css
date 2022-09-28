@@ -1,0 +1,18 @@
+.uiButton {
+    position: fixed;
+    top: 89vh;
+    left: 25vw;
+    width: 50vw;
+    height: 8vh;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Assistant';
+    background-color: #d8d8d8;
+    color: #838383;
+    border-radius: 10px;
+    border: 0;
+}
+.active {
+    color: #fff;
+    background-color: #B91118;
+}

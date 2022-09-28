@@ -1,0 +1,9 @@
+.unitRow {
+    display: grid;
+    grid-template-columns: 25vw 50vw 25vw;
+    border-bottom: 1px solid #ccc;
+    height: 4.7rem;
+}
+.unitRow h1, .unitRow h2, .unitRow h3 {
+    margin: 0;
+}

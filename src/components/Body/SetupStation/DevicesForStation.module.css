@@ -1,0 +1,23 @@
+.stickerWrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+.nextButton {
+    border-radius: 10px;
+    width: 22vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.4rem;
+    height: 2.4rem;
+    margin-left: 3vw;
+    margin-top: 1vh;
+}
+.nextActive {
+    background-color: #B91118;
+    color: #fff;
+}
+.nextInactive {
+    background-color: #D8D8D8;
+    color: #898989;
+}

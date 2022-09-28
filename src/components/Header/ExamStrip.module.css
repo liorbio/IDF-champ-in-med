@@ -1,0 +1,21 @@
+.stripWrapper {
+    display: grid;
+    grid-row: 4;
+    grid-column: 1 / 4;
+    height: 100%;
+    width: 100%;
+}
+.questionSquare {
+    width: 70%;
+    height: 60%;
+    place-self: center;
+}
+.solved {
+    background-color: #B91118;
+}
+.unsolved {
+    background-color: white;
+}
+.current {
+    background-color: #E9C1C4;
+}

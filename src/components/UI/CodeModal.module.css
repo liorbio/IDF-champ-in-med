@@ -1,0 +1,33 @@
+.modal { 
+    position: fixed;
+    width: 70vw;
+    height: 16vh;
+    top: 37vh;
+    left: 15vw;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.pincodeWrapper {
+    display: flex;
+    height: 3.5rem;
+}
+.modal p {
+    margin: 0;
+}
+.modal input {
+    width: 30vw;
+    margin: 0 4px;
+    border: 0px;
+    border-bottom: 1px solid black;
+    font-size: 1rem;
+    text-align: center;
+}
+.modal input:focus {
+    outline: none;
+}

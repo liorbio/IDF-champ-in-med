@@ -1,0 +1,36 @@
+.taskWrapper {
+    display: grid;
+    grid-template-columns: 12% 12% 74%;
+    margin-bottom: 0.8rem;
+    align-items: center;
+}
+.circle {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 100%;
+    background-color: #d8d8d8;
+    display: flex;
+    justify-content: center;
+    margin: 1vh;
+}
+.circle img {
+    align-self: center;
+}
+.correct {
+    background-color: #54AF45;
+}
+.wrong {
+    background-color: #df3333;
+}
+.itemText {
+    border-radius: 10px;
+    padding: 6px 11px;
+}
+.correctText {
+    background-color: #AFDDA8;
+    color: #134B0A;
+}
+.wrongText {
+    background-color: #FFCACA;
+    color: #6B1B1B;
+}
