@@ -1,7 +1,7 @@
 # IDF Championship in Medicine App
 
 This app is for the annual IDF championship in medicine to facilitate the workflow during rounds and the subsequent summation of competitors grades.
-![home screen](https://ibb.co/2nxRtR8)
+![home screen](https://i.ibb.co/w0V8W8J/Home-Screen.png)
 
 ## Link to the app: [IDF-Med-Champ](https://idf-med-champ.web.app/)
 
